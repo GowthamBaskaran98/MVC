@@ -6,7 +6,7 @@ namespace Online_Badminton_Court_Booking.Controllers
         // GET: CancelBooking
         public string Index()
         {
-            return "Booking Canceled";
+            return "Booking  Canceled";
         }
     }
 }
